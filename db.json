@@ -1,0 +1,255 @@
+{
+  "states": [
+    {
+      "stateName": "California",
+      "users": [
+        {
+          "id": "8a59",
+          "fieldName": "US_Driving_License",
+          "expression": "Address",
+          "": ""
+        },
+        {
+          "id": "8baa",
+          "fieldName": "Name",
+          "expression": "Name",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "DOB",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Employee_ID",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Phone_Number",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Credit_Expiry",
+          "expression": "DOB",
+          "": ""
+        },
+
+        {
+          "id": "5774",
+          "fieldName": "Crypto_Wallet",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Biometric_Data",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "IP_Address",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Passport",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "US_ITIN",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "US_SSN",
+          "expression": "DOB",
+          "": ""
+        }
+      ]
+    },
+    {
+      "stateName": "Nevada",
+      "users": [
+        {
+          "id": "8a59",
+          "fieldName": "US_Driving_License",
+          "expression": "Address",
+          "": ""
+        },
+        {
+          "id": "8baa",
+          "fieldName": "Name",
+          "expression": "Name",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "DOB",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Employee_ID",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Phone_Number",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Credit_Expiry",
+          "expression": "DOB",
+          "": ""
+        },
+
+        {
+          "id": "5774",
+          "fieldName": "Crypto_Wallet",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Biometric_Data",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "IP_Address",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Passport",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "US_ITIN",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "US_SSN",
+          "expression": "DOB",
+          "": ""
+        }
+      ]
+    },
+    {
+      "stateName": "New York",
+      "users": [
+        {
+          "id": "c38e",
+          "fieldName": "Employee_ID",
+          "expression": "Employee_ID",
+          "": ""
+        },
+        {
+          "id": "75bf",
+          "fieldName": "IP_Address",
+          "expression": "IP_Address",
+          "": ""
+        },
+        {
+          "id": "a9c1",
+          "fieldName": "Email",
+          "expression": "Email"
+        },
+        {
+          "id": "8a59",
+          "fieldName": "US_Driving_License",
+          "expression": "Address",
+          "": ""
+        },
+        {
+          "id": "8baa",
+          "fieldName": "Name",
+          "expression": "Name",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "DOB",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Employee_ID",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Phone_Number",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Credit_Expiry",
+          "expression": "DOB",
+          "": ""
+        },
+
+        {
+          "id": "5774",
+          "fieldName": "Crypto_Wallet",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Biometric_Data",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "IP_Address",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "Passport",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "US_ITIN",
+          "expression": "DOB",
+          "": ""
+        },
+        {
+          "id": "5774",
+          "fieldName": "US_SSN",
+          "expression": "DOB",
+          "": ""
+        }
+      ]
+    }
+  ]
+}
